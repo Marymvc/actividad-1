@@ -1,5 +1,5 @@
 
-# Actividad 1 - Mary Villca
+# Actividad 1
 
 ## Primer Proyecto en Vite
 
